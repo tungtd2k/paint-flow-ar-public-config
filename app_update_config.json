@@ -1,0 +1,11 @@
+{
+  "force_update": false,
+  "android_min_version": "1.0.0",
+  "android_min_build": 1,
+  "ios_min_version": "1.0.0",
+  "ios_min_build": 1,
+  "android_store_url": "https://play.google.com/store/apps/details?id=com.tungtd.paint_flow_ar",
+  "ios_store_url": "",
+  "title": "Update required",
+  "message": "Please update Paint Flow AR to continue using the app."
+}
