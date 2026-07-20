@@ -1,6 +1,6 @@
 {
-  "force_update": true,
-  "android_min_version": "1.0.19",
+  "force_update": false,
+  "android_min_version": "1.0.9",
   "android_min_build": 11,
   "ios_min_version": "1.0.0",
   "ios_min_build": 1,
