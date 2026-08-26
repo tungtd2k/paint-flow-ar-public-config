@@ -1,5 +1,5 @@
 {
-  "force_update": false,
+  "force_update": true,
   "android_min_version": "1.0.15",
   "android_min_build": 20,
   "ios_min_version": "1.0.0",
